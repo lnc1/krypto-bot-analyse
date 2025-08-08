@@ -1,0 +1,2 @@
+# krypto-bot-analyse
+bot
