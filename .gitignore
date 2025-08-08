@@ -1,0 +1,2 @@
+.env echo pycache/ echo *.pyc echo venv/
+.env
