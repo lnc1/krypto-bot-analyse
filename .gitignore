@@ -1,2 +1,23 @@
-.env echo pycache/ echo *.pyc echo venv/
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Env files
 .env
+
+# Virtual environment
+venv/
+
+# Logs
+*.log
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
